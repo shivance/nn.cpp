@@ -5,4 +5,4 @@ Status :
 Onboarded
 
 
-(being developed as tribute to someone)
+(being dedicatingly developed as tribute to someone)
